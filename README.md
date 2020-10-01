@@ -7,8 +7,8 @@
 [![Website](https://img.shields.io/website?down_color=red&down_message=Not%20available%20right%20now&style=for-the-badge&up_color=chartreuse&up_message=Visit&url=https%3A%2F%2Fgreep.cf)](https://greep.cf) [![Discord](https://img.shields.io/discord/570024448371982373?color=%237289DA&logo=discord&logoColor=%23FFFFFF&style=for-the-badge)](https://discord.gg/uWZn5f) [![Patreon](https://img.shields.io/badge/Patreon-Donate-orange?style=for-the-badge&logo=patreon)](https://patreon.com/Greep)
 
 ## Active projects:
-[![TGL](https://avatars1.githubusercontent.com/u/55832320?s=200&v=4)](https://github.com/Guiding-Lanterns/Guiding-Lanterns)
-[![AO](https://avatars2.githubusercontent.com/u/72099719?s=200&v=4)](https://github.com/arendelleodyssey)
+[![The Guiding Lanternd (A Disney-cord bot)](https://avatars1.githubusercontent.com/u/55832320?s=200&v=4)](https://github.com/Guiding-Lanterns/Guiding-Lanterns)
+[![Arendelle Odyssey](https://avatars2.githubusercontent.com/u/72099719?s=200&v=4)](https://github.com/arendelleodyssey)
 
 
 ## My NPM Package:
