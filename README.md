@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### My name is Matthieu, I'm known as Greep
-![Stats](https://github-readme-stats.vercel.app/api?username=GreepTheSheep&show_icons=true&hide_border=true&theme=vue&custom_title=Greep%27s%20Stats:) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GreepTheSheep&langs_count=10&hide_border=true&theme=vue)
+![Stats](https://github-readme-stats.vercel.app/api?username=GreepTheSheep&show_icons=true&hide_border=true&theme=vue&custom_title=Greep%27s%20Stats:) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GreepTheSheep&langs_count=10&hide_border=true&theme=vue&exclude_repo=betterdiscord-addons)
 
 [![GitHub followers](https://img.shields.io/github/followers/GreepTheSheep?color=black&logo=github&label=Follow&style=flat-square)](https://github.com/GreepTheSheep) [![Twitter Follow](https://img.shields.io/twitter/follow/GreepTheSheep?logo=twitter&color=blue&style=flat-square)](https://twitter.com/GreepTheSheep)
 
