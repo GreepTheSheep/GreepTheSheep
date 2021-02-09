@@ -15,8 +15,8 @@
 [![wiimmfi.js](https://github-readme-stats.vercel.app/api/pin/?username=GreepTheSheep&repo=wiimmfi.js&hide_border=true&theme=vue)](https://github.com/GreepTheSheep/wiimmfi.js)
 
 
-## I stopped this
-[![The Guiding Lanterns (A Disney-cord bot)](https://avatars1.githubusercontent.com/u/55832320?s=200&v=4)](https://github.com/Guiding-Lanterns/Guiding-Lanterns/issues/185)
+### side note:
+- [The Guiding Lanterns](https://github.com/Guiding-Lanterns/Guiding-Lanterns/issues/185) was stopped.
 
 <!--
 **GreepTheSheep/GreepTheSheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
