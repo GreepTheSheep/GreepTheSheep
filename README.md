@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### My name is Matthieu, I'm known as Greep
-![Stats](https://github-readme-stats.vercel.app/api?username=GreepTheSheep&show_icons=true&hide_border=true&theme=vue&custom_title=Greep%27s%20Stats:) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GreepTheSheep&langs_count=10&hide_border=true&theme=vue&exclude_repo=betterdiscord-addons&exclude_repo=mericali-fivem)
+![Stats](https://github-readme-stats.vercel.app/api?username=GreepTheSheep&show_icons=true&hide_border=true&theme=vue&custom_title=Greep%27s%20Stats:) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GreepTheSheep&langs_count=10&hide_border=true&theme=vue&exclude_repo=betterdiscord-addons)
 
 [![GitHub followers](https://img.shields.io/github/followers/GreepTheSheep?color=black&logo=github&label=Follow&style=flat-square)](https://github.com/GreepTheSheep) [![Twitter Follow](https://img.shields.io/twitter/follow/GreepTheSheep?logo=twitter&color=blue&style=flat-square)](https://twitter.com/GreepTheSheep)
 
@@ -8,6 +8,8 @@
 
 ## Active projects:
 [![Arendelle Odyssey](https://avatars2.githubusercontent.com/u/72099719?s=200&v=4)](https://github.com/arendelleodyssey)
+[![Trackmania.io Discord](https://user-images.githubusercontent.com/42576124/124255168-2c1adf00-db2a-11eb-9ab6-16411268249d.png)](https://github.com/GreepTheSheep/discord-trackmania.io)
+[![Electron Android Messages](https://user-images.githubusercontent.com/42576124/124255463-79974c00-db2a-11eb-85fb-346ff73c2b15.png)](https://github.com/GreepTheSheep/electron-android-messages)
 
 ## My NPM Package:
 [![auto-line-breaks](https://github-readme-stats.vercel.app/api/pin/?username=GreepTheSheep&repo=auto-line-breaks&hide_border=true&theme=vue)](https://github.com/GreepTheSheep/auto-line-breaks)
