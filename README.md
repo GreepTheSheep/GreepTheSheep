@@ -11,11 +11,11 @@
 [![Trackmania.io Discord](https://user-images.githubusercontent.com/42576124/124255168-2c1adf00-db2a-11eb-9ab6-16411268249d.png)](https://github.com/GreepTheSheep/discord-trackmania.io)
 [![Electron Android Messages](https://user-images.githubusercontent.com/42576124/124255463-79974c00-db2a-11eb-85fb-346ff73c2b15.png)](https://github.com/GreepTheSheep/electron-android-messages)
 
-## My NPM Package:
+## My NPM Packages:
+[![node-trackmania.io](https://github-readme-stats.vercel.app/api/pin/?username=GreepTheSheep&repo=node-trackmania.io&hide_border=true&theme=vue)](https://github.com/GreepTheSheep/node-trackmania.io)
 [![auto-line-breaks](https://github-readme-stats.vercel.app/api/pin/?username=GreepTheSheep&repo=auto-line-breaks&hide_border=true&theme=vue)](https://github.com/GreepTheSheep/auto-line-breaks)
 [![speedrun.js](https://github-readme-stats.vercel.app/api/pin/?username=GreepTheSheep&repo=speedrun.js&hide_border=true&theme=vue)](https://github.com/GreepTheSheep/speedrun.js)
 [![wiimmfi.js](https://github-readme-stats.vercel.app/api/pin/?username=GreepTheSheep&repo=wiimmfi.js&hide_border=true&theme=vue)](https://github.com/GreepTheSheep/wiimmfi.js)
-[![node-trackmania.io](https://github-readme-stats.vercel.app/api/pin/?username=GreepTheSheep&repo=node-trackmania.io&hide_border=true&theme=vue)](https://github.com/GreepTheSheep/node-trackmania.io)
 
 
 ### side note:
