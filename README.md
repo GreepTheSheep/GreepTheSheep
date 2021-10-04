@@ -8,8 +8,8 @@
 
 ## Active projects:
 [![Arendelle Odyssey](https://avatars2.githubusercontent.com/u/72099719?s=200&v=4)](https://github.com/arendelleodyssey)
-[![Trackmania.io Discord](https://user-images.githubusercontent.com/42576124/124255168-2c1adf00-db2a-11eb-9ab6-16411268249d.png)](https://github.com/GreepTheSheep/discord-trackmania.io)
-[![Electron Android Messages](https://user-images.githubusercontent.com/42576124/124255463-79974c00-db2a-11eb-85fb-346ff73c2b15.png)](https://github.com/GreepTheSheep/electron-android-messages)
+[![Trackmania.io for Node](https://user-images.githubusercontent.com/42576124/124255168-2c1adf00-db2a-11eb-9ab6-16411268249d.png)](https://github.com/GreepTheSheep/node-trackmania.io)
+[![MXRandom](https://user-images.githubusercontent.com/42576124/135821280-41f86fc1-96c2-49ae-ac67-eed2bce7082c.png)](https://github.com/GreepTheSheep/openplanet-mx-random)
 
 ## My NPM Packages:
 [![node-trackmania.io](https://github-readme-stats.vercel.app/api/pin/?username=GreepTheSheep&repo=node-trackmania.io&hide_border=true&theme=vue)](https://github.com/GreepTheSheep/node-trackmania.io)
