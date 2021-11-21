@@ -1,6 +1,11 @@
+<div align="center">
+  
 ## Hi there 👋
+
 ### My name is Matthieu, I'm known as Greep
-![Stats](https://github-readme-stats.vercel.app/api?username=GreepTheSheep&show_icons=true&hide_border=true&theme=vue&custom_title=Greep%27s%20Stats:) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GreepTheSheep&langs_count=10&hide_border=true&theme=vue&exclude_repo=betterdiscord-addons)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=GreepTheSheep&show_icons=true&hide_border=true&theme=vue&custom_title=Greep%27s%20Stats:) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GreepTheSheep&langs_count=10&hide_border=true&theme=vue&exclude_repo=betterdiscord-addons) [![Trophies](https://github-profile-trophy.vercel.app/?username=GreepTheSheep&no-frame=true&no-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 [![GitHub followers](https://img.shields.io/github/followers/GreepTheSheep?color=black&logo=github&label=Follow&style=flat-square)](https://github.com/GreepTheSheep) [![Twitter Follow](https://img.shields.io/twitter/follow/GreepTheSheep?logo=twitter&color=blue&style=flat-square)](https://twitter.com/GreepTheSheep)
 
