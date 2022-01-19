@@ -12,9 +12,9 @@
 [![Website](https://img.shields.io/website?down_color=red&down_message=Not%20available%20right%20now&style=for-the-badge&up_color=chartreuse&up_message=Visit&url=https%3A%2F%2Fgreep.gq)](https://greep.gq) [![Discord](https://img.shields.io/discord/570024448371982373?color=%237289DA&logo=discord&logoColor=%23FFFFFF&style=for-the-badge)](https://discord.gg/uWZn5f)
 
 ## Active projects:
-[![Arendelle Odyssey](https://avatars2.githubusercontent.com/u/72099719?s=200&v=4)](https://github.com/arendelleodyssey)
 [![Trackmania.io for Node](https://user-images.githubusercontent.com/42576124/124255168-2c1adf00-db2a-11eb-9ab6-16411268249d.png)](https://github.com/GreepTheSheep/node-trackmania.io)
 [![MXRandom](https://user-images.githubusercontent.com/42576124/135821280-41f86fc1-96c2-49ae-ac67-eed2bce7082c.png)](https://github.com/GreepTheSheep/openplanet-mx-random)
+[![MXMenu](https://user-images.githubusercontent.com/42576124/150105549-9cf3527a-ff41-4cd5-abd8-fb38570c42d8.png)](https://github.com/GreepTheSheep/openplanet-maniaexchange-menu)
 
 ## My NPM Packages:
 [![node-trackmania.io](https://github-readme-stats.vercel.app/api/pin/?username=GreepTheSheep&repo=node-trackmania.io&hide_border=true&theme=vue)](https://github.com/GreepTheSheep/node-trackmania.io)
