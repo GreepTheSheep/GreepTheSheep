@@ -20,9 +20,6 @@
 [![node-trackmania.io](https://github-readme-stats.vercel.app/api/pin/?username=GreepTheSheep&repo=node-trackmania.io&hide_border=true&theme=vue)](https://github.com/GreepTheSheep/node-trackmania.io)
 [![auto-line-breaks](https://github-readme-stats.vercel.app/api/pin/?username=GreepTheSheep&repo=auto-line-breaks&hide_border=true&theme=vue)](https://github.com/GreepTheSheep/auto-line-breaks)
 
-### side note:
-- [The Guiding Lanterns](https://github.com/Guiding-Lanterns/Guiding-Lanterns/issues/185) was stopped.
-
 <!--
 **GreepTheSheep/GreepTheSheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
