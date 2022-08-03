@@ -18,6 +18,7 @@
 
 ## My NPM Packages:
 [![node-trackmania.io](https://github-readme-stats.vercel.app/api/pin/?username=GreepTheSheep&repo=node-trackmania.io&hide_border=true&theme=vue)](https://github.com/GreepTheSheep/node-trackmania.io)
+[![node-tm-essentials](https://github-readme-stats.vercel.app/api/pin/?username=GreepTheSheep&repo=node-tm-essentials&hide_border=true&theme=vue)](https://github.com/GreepTheSheep/node-tm-essentials)
 [![auto-line-breaks](https://github-readme-stats.vercel.app/api/pin/?username=GreepTheSheep&repo=auto-line-breaks&hide_border=true&theme=vue)](https://github.com/GreepTheSheep/auto-line-breaks)
 
 <!--
