@@ -29,8 +29,8 @@
 </div>
 
 [![GitHub followers](https://img.shields.io/github/followers/GreepTheSheep?color=black&logo=github&label=Follow&style=for-the-badge)](https://github.com/GreepTheSheep) [![Twitter Follow](https://img.shields.io/twitter/follow/GreepTheSheep?logo=twitter&color=blue&style=for-the-badge)](https://twitter.com/GreepTheSheep)
-[![Website](https://img.shields.io/website?down_color=red&down_message=Not%20available%20right%20now&style=for-the-badge&up_color=chartreuse&up_message=Visit&url=https%3A%2F%2Fgreep.gq)](https://greep.gq)
-[![Discord](https://img.shields.io/discord/570024448371982373?color=%237289DA&logo=discord&logoColor=%23FFFFFF&style=for-the-badge)](https://greep.gq/discord/)
+[![Website](https://img.shields.io/website?down_color=red&down_message=Not%20available%20right%20now&style=for-the-badge&up_color=chartreuse&up_message=Visit&url=https%3A%2F%2Fgreep.fr)](https://greep.fr)
+[![Discord](https://img.shields.io/discord/570024448371982373?color=%237289DA&logo=discord&logoColor=%23FFFFFF&style=for-the-badge)](https://greep.fr/discord/)
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
