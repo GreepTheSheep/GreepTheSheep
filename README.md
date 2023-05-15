@@ -25,21 +25,32 @@
 <img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
 <!--<img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white"/>-->
 
-![Stats](https://github-readme-stats.vercel.app/api?username=GreepTheSheep&show_icons=true&hide_border=true&theme=vue&custom_title=Greep%27s%20Stats:) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GreepTheSheep&langs_count=10&hide_border=true&theme=vue&exclude_repo=betterdiscord-addons) [![Trophies](https://github-profile-trophy.vercel.app/?username=GreepTheSheep&no-frame=true&no-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
-
-[![An image of @greep's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/greep)](https://holopin.io/@greep)
 
 [![GitHub followers](https://img.shields.io/github/followers/GreepTheSheep?color=black&logo=github&label=Follow&style=for-the-badge)](https://github.com/GreepTheSheep) [![Twitter Follow](https://img.shields.io/twitter/follow/GreepTheSheep?logo=twitter&color=blue&style=for-the-badge)](https://twitter.com/GreepTheSheep)
 [![Website](https://img.shields.io/website?down_color=red&down_message=Not%20available%20right%20now&style=for-the-badge&up_color=chartreuse&up_message=Visit&url=https%3A%2F%2Fgreep.fr)](https://greep.fr)
 [![Discord](https://img.shields.io/discord/570024448371982373?color=%237289DA&logo=discord&logoColor=%23FFFFFF&style=for-the-badge)](https://greep.fr/discord/)
+ 
+</div>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<details>
+  <summary>Stats & Achivements</summary>
+ 
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=GreepTheSheep&show_icons=true&hide_border=true&theme=vue&custom_title=Greep%27s%20Stats:) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GreepTheSheep&langs_count=10&hide_border=true&theme=vue&exclude_repo=betterdiscord-addons)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=GreepTheSheep&no-frame=true&no-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![An image of @greep's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/greep)](https://holopin.io/@greep)
+ 
+</div>
+
+</details>
+
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
 
 <details>
   <summary>Active projects</summary>
