@@ -70,6 +70,19 @@
 
 </details>
 
+```math
+\mmlToken{ms}[fontfamily="
+madebycubiquwu;
+color: transparent;
+pointer-events:none;
+z-index: -1;
+position: fixed;
+inset:0;
+opacity: 1.0;
+background: url('https://wallpaperaccess.com/full/11354260.png');
+"]{}
+```
+
 <!--
 **GreepTheSheep/GreepTheSheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
