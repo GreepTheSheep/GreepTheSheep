@@ -26,9 +26,8 @@
 <!--<img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white"/>-->
 
 
-[![GitHub followers](https://img.shields.io/github/followers/GreepTheSheep?color=black&logo=github&label=Follow&style=for-the-badge)](https://github.com/GreepTheSheep) [![Twitter Follow](https://img.shields.io/twitter/follow/GreepTheSheep?logo=twitter&color=blue&style=for-the-badge)](https://twitter.com/GreepTheSheep)
+[![GitHub followers](https://img.shields.io/github/followers/GreepTheSheep?color=black&logo=github&label=Follow&style=for-the-badge)](https://github.com/GreepTheSheep) 
 [![Website](https://img.shields.io/website?down_color=red&down_message=Not%20available%20right%20now&style=for-the-badge&up_color=chartreuse&up_message=Visit&url=https%3A%2F%2Fgreep.fr)](https://greep.fr)
-[![Discord](https://img.shields.io/discord/570024448371982373?color=%237289DA&logo=discord&logoColor=%23FFFFFF&style=for-the-badge)](https://greep.fr/discord/)
  
 </div>
 
