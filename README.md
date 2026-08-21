@@ -14,8 +14,10 @@
  
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=GreepTheSheep&show_icons=true&hide_border=true&theme=vue&custom_title=Greep%27s%20Stats:) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GreepTheSheep&langs_count=10&hide_border=true&theme=vue&exclude_repo=betterdiscord-addons)
-[![Trophies](https://github-profile-trophy.vercel.app/?username=GreepTheSheep&no-frame=true&no-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+![Stats](https://github-stats-extended.vercel.app/api?username=GreepTheSheep&hide_rank=true&custom_title=Greep%20Stats%3A&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true) ![Languages](https://github-stats-extended.vercel.app/api/top-langs?username=GreepTheSheep&layout=compact&langs_count=20&theme=github_dark&hide_border=true)
+
 [![An image of @greep's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/greep)](https://holopin.io/@greep)
  
 </div>
@@ -32,18 +34,10 @@
 <details>
   <summary>Active projects</summary>
 
-  [![Trackmania.io for Node](https://user-images.githubusercontent.com/42576124/124255168-2c1adf00-db2a-11eb-9ab6-16411268249d.png)](https://github.com/GreepTheSheep/node-trackmania.io)
-  [![MXRandom](https://user-images.githubusercontent.com/42576124/135821280-41f86fc1-96c2-49ae-ac67-eed2bce7082c.png)](https://github.com/GreepTheSheep/openplanet-mx-random)
-  [![MXMenu](https://user-images.githubusercontent.com/42576124/150105549-9cf3527a-ff41-4cd5-abd8-fb38570c42d8.png)](https://github.com/GreepTheSheep/openplanet-maniaexchange-menu)
-
-</details>
-
-<details>
-  <summary>My NPM Packages</summary>
-
-[![node-trackmania.io](https://github-readme-stats.vercel.app/api/pin/?username=GreepTheSheep&repo=node-trackmania.io&hide_border=true&theme=vue)](https://github.com/GreepTheSheep/node-trackmania.io)
-[![node-tm-essentials](https://github-readme-stats.vercel.app/api/pin/?username=GreepTheSheep&repo=node-tm-essentials&hide_border=true&theme=vue)](https://github.com/GreepTheSheep/node-tm-essentials)
-[![auto-line-breaks](https://github-readme-stats.vercel.app/api/pin/?username=GreepTheSheep&repo=auto-line-breaks&hide_border=true&theme=vue)](https://github.com/GreepTheSheep/auto-line-breaks)
+  [![node-tm-essentials](https://github-stats-extended.vercel.app/api/pin?username=GreepTheSheep&repo=node-tm-essentials&description_lines_count=2&theme=github_dark)](https://github.com/GreepTheSheep/node-tm-essentials)
+  [![Trackmania.io for Node](https://github-stats-extended.vercel.app/api/pin?username=GreepTheSheep&repo=node-trackmania.io&description_lines_count=2&theme=github_dark)](https://github.com/GreepTheSheep/node-trackmania.io)
+  [![MXRandom](https://github-stats-extended.vercel.app/api/pin?username=GreepTheSheep&repo=openplanet-mx-random&description_lines_count=2&theme=github_dark)](https://github.com/GreepTheSheep/openplanet-mx-random)
+  [![MXMenu](https://github-stats-extended.vercel.app/api/pin?username=GreepTheSheep&repo=openplanet-maniaexchange-menu&description_lines_count=2&theme=github_dark)](https://github.com/GreepTheSheep/openplanet-maniaexchange-menu)
 
 </details>
 
